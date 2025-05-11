@@ -8,3 +8,5 @@ project of edunet using machine learning and deep learning
 
 #output:
 ![Image](https://github.com/user-attachments/assets/3a91b5fb-0eba-4df9-94d0-bcfc37c4469d)
+
+![Image](https://github.com/user-attachments/assets/f120578e-2cf3-46a1-b012-02b89332a007)
